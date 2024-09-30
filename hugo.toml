@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'dylankrish Blog'
 theme = "hugo-blog-awesome"
 
+[params.author]
+  avatar = "dylankrish.jpeg" # put the file in assets folder; also ensure that image has same height and width
+  intro = "Dylan's blog"
+  name = "Dylan Krishnan"
+  description = "Cybersecurity genius."
+
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/dylankrish"
