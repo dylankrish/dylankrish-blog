@@ -25,7 +25,7 @@ theme = "hugo-blog-awesome"
   avatar = "dylankrish.jpeg" # put the file in assets folder; also ensure that image has same height and width
   intro = "Dylan's blog"
   name = "Dylan Krishnan"
-  description = "Cybersecurity genius."
+  description = "This is my blog that includes programming, Cybersecurity, and home infrastructure projects!"
 
 [[params.socialIcons]]
 name = "github"
