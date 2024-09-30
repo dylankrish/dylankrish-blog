@@ -3,6 +3,24 @@ languageCode = 'en-us'
 title = 'dylankrish Blog'
 theme = "hugo-blog-awesome"
 
+[menu]
+  [[menu.main]]
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[menu.main]]
+    pageRef="dylankri.sh"
+    name = 'dylankri.sh'
+    url = 'https://dylankri.sh'
+    weight = 30
+
+
 [params.author]
   avatar = "dylankrish.jpeg" # put the file in assets folder; also ensure that image has same height and width
   intro = "Dylan's blog"
