@@ -109,9 +109,6 @@ git push
 
 Congratulations! You've just created your first blog! 🥳🎉
 
-# Check out my repo
-Feel free to check out the code for this blog on [GitHub](https://github.com/dylankrish/dylankrish-blog)!
-
 # Conclusion
 To conclude this post, Hugo is a very powerful tool for developers looking to start a blog. It's Markdown support for blog posts, along with its extensive customization and theming options, makes it an excellent choice. If you're someone who's already used to Markdown or you're a developer looking for an easy way to create a blog, I highly recommend that you give this a try.
 
