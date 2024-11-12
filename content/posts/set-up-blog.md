@@ -102,6 +102,7 @@ hugo server
 
 Once everything looks good, commit and push your changes:
 ```bash
+git add content # add folder with post
 git commit -m "Create my first blog post"
 git push
 ```
