@@ -1,5 +1,2 @@
-# To Do
-
-- Customize Hugo Social Icons and Pfp
-- Make a script or git submodule to publish to github.com/dylankrish/dylankri.sh/blog
-- Make first post
+# dylankrish blog
+This is the code for my blog, which you can find at https://blog.dylankri.sh
