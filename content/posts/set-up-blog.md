@@ -14,11 +14,9 @@ There are other static site generators like Jekyll, and there are even easier, b
 ## It's *fast*
 Hugo is known for it's speed. This is because it's built in the Go programming language, which offers several features like memory safety and efficiency. While this advantage isn't particularly visible at first glance, it's useful for frequent deployments and scalability if your project gets large.
 ## It's *powerful*
-Hugo blog posts are written in markdown. It's the same language that powers the [Obsidian](https://obsidian.md/) note taking tool, and the same language that is used to create README.md files on GitHub. Markdown lets you can format text quickly, and it's fairly easy to learn.
+Hugo blog posts are written in markdown. If you're not familiar with Markdown, it's a lightweight markup language with plain-text formatting syntax that is easy to learn and widely used! It's the same language that powers the [Obsidian](https://obsidian.md/) note taking tool, and the same language that is used to create README.md files on GitHub.
 ## It's *customizable*
-Hugo offers a lot of flexibility when it comes to flexibility, you have a [variety of themes](https://themes.gohugo.io/) to choose from
-
-For the theme, I chose to go with the [hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) theme.
+Hugo offers a lot of flexibility, you have a [variety of themes](https://themes.gohugo.io/) to choose from. For my theme, I chose to go with the [hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) theme.
 
 # Cloudflare pages
 Recently I transition from GitHub pages to Cloudflare pages, but ultimately I settled on Cloudflare pages for a variety of reasons:
