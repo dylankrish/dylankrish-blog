@@ -1,6 +1,6 @@
 +++
 title = 'How I set up my blog (and how you can too)'
-date = 2024-09-30T01:47:07-04:00
+date = 2025-02-02T13:01:54-0500
 draft = false
 +++
 
