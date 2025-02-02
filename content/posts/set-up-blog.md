@@ -1,7 +1,7 @@
 +++
 title = 'How I set up my blog (and how you can too)'
 date = 2024-09-30T01:47:07-04:00
-draft = true
+draft = false
 +++
 
 Welcome to my first post on my shiny new blog! In this post, I'll walk you through the process of setting up my blog and website setup. Among the things you will find in my guided tutorial are the tools and technologies I used, the reasons behind my choices, and the step-by-step instructions on how you can set up a similar blog for yourself to suit your needs!
