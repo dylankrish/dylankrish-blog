@@ -66,13 +66,16 @@ git push -u origin main # push to branch
 
 ## Step 5: Set up Cloudflare pages deployment
 Assuming you already have Cloudflare, go to the [Cloudflare dashboard](https://dash.cloudflare.com/). Select "Workers & Pages" from the left side.
-![Workers & Pages button on Cloudflare dashboard](image.png)
+
+![Workers & Pages button on Cloudflare dashboard](/image.png)
+
 In the 'overview' page click the "Create" button and select the "Pages" tab. Since we're connecting this to a GitHub repository, we'll select "Connect to Git."
 
 Follow the steps to connect your GitHub account and select the repository that your hugo blog is located in. Select your repository and click "begin setup."
 
 Under "Framework preset" select "Hugo" as your framework.
-![Hugo Framework preset](image-1.png)
+
+![Hugo Framework preset](/image-1.png)
 
 Click "Save and Deploy!" 
 
